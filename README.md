@@ -2,7 +2,7 @@
 
 A modern, fast, and responsive website built for Bastin Mechanical. This project can be found at bastinmechanical.com!
 
-## 💻 Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally on your machine.
 
